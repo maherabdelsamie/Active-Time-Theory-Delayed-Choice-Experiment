@@ -112,7 +112,7 @@ In the standard interpretation of the **Delayed Choice Experiment**, retrocausal
 
 ---
 
-### **Interpreting the Results of the Second Run**
+### **Interpreting the Results **
 
 In the second run, the simulation produced the following results:
 
