@@ -143,3 +143,30 @@ In the second run, the simulation produced the following results:
 The simulation demonstrates how **Active Time Theory** resolves the paradox of the Delayed Choice Experiment without invoking retrocausality. By allowing time to play an **active role** in shaping the evolution of the quantum system, ATH ensures that the particle’s behavior is consistent with the measurement without needing to alter the past. The faculties of time—**generative, adaptive, and directive**—work in concert to dynamically guide the system, removing the need for retroactive influence while preserving causal consistency.
 
 These results not only resolve the paradox but also suggest that time itself may be a dynamic agent in quantum phenomena, opening the door to further exploration of **Active Time Theory** in explaining quantum mechanics.
+
+---
+# Installation
+The simulation is implemented in Python and requires the following libraries:
+- numpy
+- matplotlib
+ 
+
+### Usage
+Run the simulation by executing the `main.py` file.
+```
+python main.py
+```
+
+## Run on Google Colab
+
+You can run this notebook on Google Colab by clicking on the following badge:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V7Wnq_UfJsxzyHjBo_hyd9fTSPvibpl6?usp=sharing)
+
+## License
+
+See the LICENSE.md file for details.
+
+## Citing This Work
+
+You can cite it using the information provided in the `CITATION.cff` file available in this repository.
