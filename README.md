@@ -2,9 +2,9 @@
 
 ### **Introduction**
 
-The **Delayed Choice Experiment (DCE)**, first proposed by John Wheeler, has long presented a paradox that challenges our classical understanding of quantum mechanics and time. In DCE, particles (such as photons) seemingly retroactively decide their behavior—whether to act like a wave or a particle—depending on the measurement performed **after** they have passed through the experimental setup. The experiment suggests that **future choices** (the type of measurement) can determine the particle's **past behavior**, thus questioning the linear progression of time and classical causality.
+The **Delayed Choice Experiment (DCE)**, first proposed by John Wheeler [1], has long presented a paradox that challenges our classical understanding of quantum mechanics and time. In DCE, particles (such as photons) seemingly retroactively decide their behavior—whether to act like a wave or a particle—depending on the measurement performed **after** they have passed through the experimental setup. The experiment suggests that **future choices** (the type of measurement) can determine the particle's **past behavior**, thus questioning the linear progression of time and classical causality.
 
-To address this paradox, we turn to **Active Time Theory (ATH)**, a conceptual framework that reimagines time as an **active agent** in the evolution of physical systems. Instead of time being a passive backdrop, ATH suggests that time has **faculties** that influence systems dynamically: 
+To address this paradox, we turn to **Active Time Theory (ATH)**, proposed by Maher Abdelsamie [2-7], a conceptual framework that reimagines time as an **active agent** in the evolution of physical systems. Instead of time being a passive backdrop, ATH suggests that time has **faculties** that influence systems dynamically: 
 
 - The **generative faculty** introduces stochasticity (random fluctuations).
 - The **adaptive faculty** modulates time’s progression based on local conditions.
@@ -144,6 +144,15 @@ The simulation demonstrates how **Active Time Theory** resolves the paradox of t
 
 These results not only resolve the paradox but also suggest that time itself may be a dynamic agent in quantum phenomena, opening the door to further exploration of **Active Time Theory** in explaining quantum mechanics.
 
+## References
+
+1. See Wheeler's "delayed choice", in Quantum Theory and Measurement, edited by J.A. Wheeler and W.H. Zurek, Princeton Univ. Press (1983).
+2. Abdelsamie,	M.	(2023).	The Active Time Hypothesis: Unveiling Temporal Dynamics in Quantum Entanglement (Version 1.0.0) [Computer software]. URL	https://github.com/maherabdelsamie/Active-Time-Hypothesis2.
+3. Abdelsamie, M. (2024). The Foundations of Active Time Theory (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/Active-Time-Theory.
+4. Abdelsamie,  M.  (2024). Simulation of Quantum Tunneling Dynamics Validates Signatures of Active Time (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/Active-Time-Theory-Quantum-Tunneling
+5. Abdelsamie,  M.  (2024). Re-interpreting Time Dilation Through the Lens of Active Time Theory (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/Active-Time-Theory-Time-Dilation.
+6. Abdelsamie,  M.  (2024). The Secret Inner Workings of Time Exposed by Atomic Clocks (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/Active-Time-Theory-Atomic-Clocks.
+7. Abdelsamie,  M.  (2024). Reinterpreting Gravitational Effects Through the Lens of Active Time Theory (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/Active-Time-Theory-Gravity.
 ---
 # Installation
 The simulation is implemented in Python and requires the following libraries:
