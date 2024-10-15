@@ -4,7 +4,7 @@
 
 The **Delayed Choice Experiment (DCE)**, first proposed by John Wheeler [1], has long presented a paradox that challenges our classical understanding of quantum mechanics and time. In DCE, particles (such as photons) seemingly retroactively decide their behavior—whether to act like a wave or a particle—depending on the measurement performed **after** they have passed through the experimental setup. The experiment suggests that **future choices** (the type of measurement) can determine the particle's **past behavior**, thus questioning the linear progression of time and classical causality.
 
-To address this paradox, we turn to **Active Time Theory (ATH)**, proposed by Maher Abdelsamie [2-7], a conceptual framework that reimagines time as an **active agent** in the evolution of physical systems. Instead of time being a passive backdrop, ATH suggests that time has **faculties** that influence systems dynamically: 
+To address this paradox, we turn to **Active Time Theory (ATH)**, proposed by Maher Abdelsamie [2-7], that reimagines time as an **active agent** in the evolution of physical systems. Instead of time being a passive backdrop, ATH suggests that time has **faculties** that influence systems dynamically: 
 
 - The **generative faculty** introduces stochasticity (random fluctuations).
 - The **adaptive faculty** modulates time’s progression based on local conditions.
