@@ -30,9 +30,9 @@ class GlobalTime:
 - **use_ath**: This flag ensures that ATH is applied in the simulation.
 - **particles, cesium_atoms, quantum_systems**: These are the physical entities interacting in the system, influenced by time's dynamic evolution.
 
-#### **2. The Role of the Intrinsic Time Variable \( \phi \)**
+#### **2. The Role of the Intrinsic Time Variable \( $\phi \$)**
 
-A key feature of the simulation is the **intrinsic time variable** \( \phi \), which represents how time actively shapes the system. The **phi_derivative()** function calculates the change in \( \phi \) based on particle states, introducing **stochastic** and **system-based influences**:
+A key feature of the simulation is the **intrinsic time variable** \( $\phi \$), which represents how time actively shapes the system. The **phi_derivative()** function calculates the change in \( $\phi \$) based on particle states, introducing **stochastic** and **system-based influences**:
 
 ```python
 def calculate_phi_derivative(self):
@@ -48,11 +48,11 @@ def calculate_phi_derivative(self):
 ```
 
 - **Stochasticity (Generative Faculty)**: \( s_t \) represents the random fluctuations introduced by time’s generative faculty.
-- **Adaptive Influence**: The state of particles influences how \( \phi \) evolves, ensuring that time’s progression adapts to the local conditions of the system.
+- **Adaptive Influence**: The state of particles influences how \( $\phi \$) evolves, ensuring that time’s progression adapts to the local conditions of the system.
 
 #### **3. Time Flow and System Evolution**
 
-In ATH, time doesn’t flow uniformly. The flow rate is influenced by \( \phi \), as well as stochastic factors, reflecting the **adaptive** and **generative** faculties of time:
+In ATH, time doesn’t flow uniformly. The flow rate is influenced by \( $\phi \$), as well as stochastic factors, reflecting the **adaptive** and **generative** faculties of time:
 
 ```python
 def update_time_flow(self):
@@ -77,7 +77,7 @@ class QuantumParticle:
         self.position += self.velocity * effective_dt
 ```
 
-This code incorporates time’s active influence on how particles evolve, introducing **time dilation** effects that depend on the local conditions of \( \phi \) and time flow.
+This code incorporates time’s active influence on how particles evolve, introducing **time dilation** effects that depend on the local conditions of \($\phi \$) and time flow.
 
 #### **5. Measurement and Delayed Choice**
 
@@ -130,8 +130,8 @@ In the second run, the simulation produced the following results:
    - The measurement occurred at **15.727 units of intrinsic time**, meaning the system had ample time to evolve under the influence of time’s faculties. Time’s **generative faculty** allowed the particle to fluctuate stochastically, but the **directive faculty** ensured a coherent outcome by the time of measurement.
 
 3. **Phi at Measurement**:
-   - The value of \( \phi \) at measurement was **9.525**, a relatively high value. This indicates that time’s **directive faculty** was strongly guiding the system toward a stable outcome, allowing the particle to exhibit wave-like behavior.
-   - A high \( \phi \) value suggests that time’s influence had reached a point where the system was highly deterministic, ensuring that the final measurement was consistent with the system’s history and time’s progression.
+   - The value of \( $\phi \$) at measurement was **9.525**, a relatively high value. This indicates that time’s **directive faculty** was strongly guiding the system toward a stable outcome, allowing the particle to exhibit wave-like behavior.
+   - A high \( $\phi \$) value suggests that time’s influence had reached a point where the system was highly deterministic, ensuring that the final measurement was consistent with the system’s history and time’s progression.
 
 ![1](https://github.com/user-attachments/assets/30a5004c-2be4-40d6-9558-415d4f32c494)
 ![2](https://github.com/user-attachments/assets/87961abc-eaf4-44e1-841e-9871b2f3a928)
