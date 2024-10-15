@@ -114,7 +114,7 @@ In the standard interpretation of the **Delayed Choice Experiment**, retrocausal
 
 ### **Interpreting the Results**
 
-In the second run, the simulation produced the following results:
+The simulation produced the following results:
 
 - **Measured State**: `path_B` (wave-like behavior)
 - **Measurement Time**: `15.727 units of intrinsic time`
